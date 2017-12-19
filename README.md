@@ -72,6 +72,8 @@ extension FirstViewController {
 }
 ```
 
+Customize views on ViewPlaceholder.xib
+
 ## License
 
 Free
