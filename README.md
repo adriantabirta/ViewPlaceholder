@@ -1,6 +1,12 @@
 # ViewPlaceholder
 
-UITableView and UICollectionView placeholders for states like **no internet connection**, **no data**, **loading** written in Swift.
+UITableView and UICollectionView placeholders views in Swift for state like:
+
+- [x] **no internet connection**
+- [x] **no data**
+- [x] **loading**
+- [x]  **none** - just black white view
+
 Is easy to implement, just drag and drom into your project.
 
 ## Getting Started
