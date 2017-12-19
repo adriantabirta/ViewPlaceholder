@@ -7,6 +7,11 @@ UITableView and UICollectionView placeholders views in Swift for state like:
 - [x] **loading**
 - [x]  **none** - just black white view
 
+
+
+![Alt Text](https://media.giphy.com/media/xT9DgtumvW8DZFw5SE/giphy.gif)
+
+
 Is easy to implement, just drag and drom into your project.
 
 ## Getting Started
