@@ -115,7 +115,7 @@ extension ViewPlaceholder {
 	}
 	
 	/// Handle server response and show specific view.
-	func handleRespunse(status: Bool, total: Int) {
+	func handleResponse(status: Bool, total: Int) {
 		switch (status, total == 0) {
 		case (true, false): configure(state: .none)
 		case (true, true): configure(state: .empty)
